@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output folders
+output/
+frames_for_gif/
+data/
+
+# IDE specific files
+.vscode/
+.idea/
