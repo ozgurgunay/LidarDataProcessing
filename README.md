@@ -66,9 +66,9 @@ Here's how the algorithm's main steps look:
 
 ## 5\. Results
 
-The system was tested on the full dataset of 718 frames. The analysis showed that **[1069]** unique objects were detected and tracked. These included **[128]** cars, **[195]** pedestrians, and **[79]** cyclists.
+The system was tested on the full dataset of 718 frames. The analysis showed that **1069** unique objects were detected and tracked. These included **128** cars, **195** pedestrians, and **79** cyclists.
 
-The tracking algorithm worked well, with **[114]** objects being tracked for 10 or more frames in a row. The object tracked for the longest time, likely a fixed part of the environment, was followed for **[794]** frames. This shows the tracker's stability.
+The tracking algorithm worked well, with **114** objects being tracked for 10 or more frames in a row. The object tracked for the longest time, likely a fixed part of the environment, was followed for **794** frames. This shows the tracker's stability.
 
 <img width="1000" height="600" alt="tracking_durations_histogram" src="https://github.com/user-attachments/assets/4d599b6b-85da-492c-b167-fcfbd0e70d4e" />
 
